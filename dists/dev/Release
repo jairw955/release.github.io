@@ -1,0 +1,17 @@
+Origin: RKNN3 Center
+Label: RKNN3 Center
+Suite: dev
+Codename: dev
+Architectures: amd64 arm64
+Components: main
+Date: Thu, 24 Sep 2026 03:04:43 +0000
+Description: RKNN3 Center packages
+MD5Sum:
+ 9594cbbc7753c60177978cc0ba64b545 379 main/binary-amd64/Packages
+ 62bea2dbff627f6caa6af884b6d525e6 379 main/binary-arm64/Packages
+SHA1:
+ 026e2759178bfc46a6a47d617e6cef3c1aa61a9e 379 main/binary-amd64/Packages
+ 05393842fa82ce5e7efcd09b8068e309c83784df 379 main/binary-arm64/Packages
+SHA256:
+ 791a46780d0daa9ceadb7ca82fa351a815270c9ee3d2413ecda46da7556cfd85 379 main/binary-amd64/Packages
+ 360a638c2f5818f0fa60aa988c63b1ff41e9fa5c5945cfa378587ca37cfbb810 379 main/binary-arm64/Packages

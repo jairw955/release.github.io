@@ -1,0 +1,8 @@
+Package: rknn3-center
+Version: 0.2.6
+Architecture: amd64
+Filename: pool/dev/main/rknn3-center_0.2.6_amd64.deb
+Size: 17368384
+SHA256: 7585a26ffefea0c7541e444f86193adccce5b1cdd42a9ac1549354e13ae9144a
+Depends: libc6 (>= 2.34), libgcc-s1, libglib2.0-0, libgtk-3-0, libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libusb-1.0-0, xdg-desktop-portal, xdg-desktop-portal-gtk, xdg-utils
+

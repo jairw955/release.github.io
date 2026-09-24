@@ -1,0 +1,12 @@
+PackageIdentifier: RKNN3.Center
+PackageVersion: 0.2.6
+InstallerType: nullsoft
+Scope: machine
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://jairw955.github.io/release.gihub.io/packages/x86_64-pc-windows-gnullvm/RKNN3-Center_0.2.6_windows-x86_64_setup.exe
+    InstallerSha256: 37bd8f92eac75ad61a7b674a08e122a45070d96064922836fd2454e0236121b5
+    InstallerSwitches:
+      Silent: /S
+ManifestType: installer
+ManifestVersion: 1.6.0
