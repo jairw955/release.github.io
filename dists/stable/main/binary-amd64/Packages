@@ -1,0 +1,11 @@
+Package: rknn-center
+Version: 0.2.7
+Architecture: amd64
+Filename: pool/stable/main/rknn-center_0.2.7_amd64.deb
+Size: 27316184
+SHA256: eacaea84da128a04a8aa3f58ff391c84fed4a45de07d75f26ee02901c8855d4a
+Depends: systemd, util-linux, libc6 (>= 2.34), libgcc-s1, libglib2.0-0, libgtk-3-0, libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libusb-1.0-0, xdg-desktop-portal, xdg-desktop-portal-gtk, xdg-utils, adb
+Conflicts: rknn3-center
+Replaces: rknn3-center
+Provides: rknn3-center (= 0.2.7)
+

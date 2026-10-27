@@ -34,7 +34,7 @@ try {
     if ($actualHash -ine $package.sha256) {
         throw 'Installer SHA-256 mismatch; installation refused'
     }
-    Write-Host "Installing RKNN3 Center $($metadata.version) for $target"
+    Write-Host "Installing RKNN Center $($metadata.version) for $target"
     $process = Start-Process -FilePath $installer -Wait -PassThru
     if ($process.ExitCode -ne 0) {
         throw "Installer failed with exit code $($process.ExitCode)"
